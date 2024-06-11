@@ -2,9 +2,5 @@
 This is a new repo.
 </h2>
 <p>
-<<<<<<< HEAD
-This is a feature update. (switch)
-=======
-This is a feature update. (button)
->>>>>>> feature
+This is a feature update. 
 </p>
